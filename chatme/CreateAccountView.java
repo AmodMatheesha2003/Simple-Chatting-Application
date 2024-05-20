@@ -553,7 +553,7 @@ public class CreateAccountView {
         Session session = Session.getInstance(properties, new Authenticator() {
             @Override
             protected PasswordAuthentication getPasswordAuthentication() {
-                return new PasswordAuthentication("chatmeofficial2003@gmail.com", "gnqx gidp wtlq ffvc");
+                return new PasswordAuthentication("**************", "***************");
             }
         });
         try {
